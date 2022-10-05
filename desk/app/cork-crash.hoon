@@ -40,11 +40,11 @@
     ?:  =(act 0)
         ~&  >  [%watching]
         :_  this
-        (watch ~sampel)
+        (watch ~sampel-samweg)
     ?:  =(act 1)
         ~&  >  [%leaving]
         :_  this
-        (leave ~sampel)
+        (leave ~sampel-samweg)
     `this
   ==
 ++  on-watch  on-watch:def
