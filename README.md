@@ -6,6 +6,7 @@ to reproduce, install the desk and run
 :cork-crash &noun 1
 ```
 
+output:
 ```
 >   %watching
 > :cork-crash &noun 0
